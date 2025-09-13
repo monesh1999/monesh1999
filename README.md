@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Monesh  
 🚀 Full-Stack Developer | 💡 Problem Solver | ⚙️ Tech Explorer  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F75C7E&lines=Full+Stack+Developer;Spring+Boot+%7C+React+JS;Java+%7C+SQL+%7C+Security;Aspiring+Tech+Innovator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F75C7E&lines=Full+Stack+Developer;Spring+Boot+%7C+React+JS;Java+%7C+SQL+%7C+Spring-Security;Aspiring+Tech+Innovator)](https://git.io/typing-svg)
 
 ---
 
